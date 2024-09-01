@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<emps>
+	<emp>
+	<name>name1</name>
+	<age>1</age>
+	<image>https://unsplash.com/photos/a-woman-sitting-on-a-bench-using-a-laptop-computer-D5JbEL9L0Zo</image>
+	<!-- 1 male 2 female -->
+	<gender>1</gender>
+	
+	<job>1</job>
+	</emp>
+	
+	<emp>
+	<name>name2</name>
+	<age>2</age>
+	<image>https://unsplash.com/photos/a-single-white-flower-with-a-white-background-yexCe9YMtOc</image>
+	<!-- 1 male 2 female -->
+	<gender>2</gender>
+	
+	<job>2</job>
+	</emp>
+</emps>
